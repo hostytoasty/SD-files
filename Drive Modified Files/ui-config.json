@@ -1420,5 +1420,7 @@
     "customscript/sd_tag_batch_al.py/img2img/Prompt in front/visible": true,
     "customscript/sd_tag_batch_al.py/img2img/Prompt in front/value": true,
     "customscript/sd_tag_batch_al.py/img2img/Use deepbooru/visible": true,
-    "customscript/sd_tag_batch_al.py/img2img/Use deepbooru/value": true
+    "customscript/sd_tag_batch_al.py/img2img/Use deepbooru/value": true,
+    "txt2img/Tabs@txt2img_controlnet_tabs/selected": null,
+    "img2img/Tabs@img2img_controlnet_tabs/selected": null
 }

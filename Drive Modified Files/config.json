@@ -144,9 +144,20 @@
     "keyedit_precision_extra": 0.05,
     "keyedit_delimiters": ".,\\/!?%^*;:{}=`~()",
     "quicksettings_list": [
-        "sd_model_checkpoint"
+        "sd_model_checkpoint",
+        "sd_vae",
+        "CLIP_stop_at_last_layers",
+        "live_previews_enable",
+        "show_progress_every_n_steps"
     ],
-    "ui_tab_order": [],
+    "ui_tab_order": [
+        "img2img",
+        "txt2img",
+        "Extras",
+        "PNG Info",
+        "Settings",
+        "Extensions"
+    ],
     "hidden_tabs": [],
     "ui_reorder_list": [],
     "hires_fix_show_sampler": false,
