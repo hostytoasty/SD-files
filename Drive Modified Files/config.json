@@ -151,8 +151,8 @@
         "show_progress_every_n_steps"
     ],
     "ui_tab_order": [
-        "img2img",
         "txt2img",
+        "img2img",
         "Extras",
         "PNG Info",
         "Settings",
