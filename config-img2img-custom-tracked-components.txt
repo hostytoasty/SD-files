@@ -93,18 +93,18 @@ img2img_controlnet_ControlNet-0_controlnet_resize_mode_radio
 #img2img_controlnet_ControlNet-2_controlnet_automatically_send_generated_images_checkbox
 
 # Tiled Diffusion (extension)
-#MD-i2i-enabled
+MD-i2i-enabled
 #MD-i2i-keep-input-size
 #MD-i2i-method
 #MD-i2i-control-tensor-cpu
-#MD-i2i-latent-tile-width
-#MD-i2i-latent-tile-height
-#MD-i2i-latent-tile-overlap
-#MD-i2i-latent-tile-batch-size
-#MD-i2i-upscaler-index
-#MD-i2i-upscaler-factor
+MD-i2i-latent-tile-width
+MD-i2i-latent-tile-height
+MD-i2i-latent-tile-overlap
+MD-i2i-latent-tile-batch-size
+MD-i2i-upscaler-index
+MD-i2i-upscaler-factor
 # Tiled Diffusion - Noise Inversion
-#MD-i2i-noise-inverse
+MD-i2i-noise-inverse
 #MD-i2i-noise-inverse-steps
 #MD-i2i-noise-inverse-retouch
 #MD-i2i-noise-inverse-renoise-strength
@@ -147,10 +147,10 @@ img2img_controlnet_ControlNet-0_controlnet_resize_mode_radio
 #MD-i2i-2-neg-prompt
 #MD-i2i-2-seed
 # Tiled Diffusion - Tiled VAE
-#tiledvae-i2i-enable
+tiledvae-i2i-enable
 #tiledvae-i2i-vae2gpu
-#tiledvae-i2i-enc-size
-#tiledvae-i2i-dec-size
+tiledvae-i2i-enc-size
+tiledvae-i2i-dec-size
 #tiledvae-i2i-fastenc
 #tiledvae-i2i-fastenc-colorfix
 #tiledvae-i2i-fastdec
