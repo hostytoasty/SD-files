@@ -1,0 +1,2 @@
+﻿name,prompt,negative_prompt
+style-test," <lora:tangbohu_smallhead:2>, <lora:add_detail:0.2>","badhandv4,bad_prompt_version2,paintings, sketches, (worst quality:2), pureerosface_v1, bad-artist-anime, (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans  "
